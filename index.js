@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "31715496068041407";
-const LOCKED_GROUP_NAME = "GOD ABUSERS KI MAA LK KE LAUDE PE (Y)";
+const GROUP_THREAD_ID = "24047601991588279";
+const LOCKED_GROUP_NAME = "GOD ABUSER GOLGAPPA KI MAA 10 BJE LK KE LAND PE HOGI ;* (Y)";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
